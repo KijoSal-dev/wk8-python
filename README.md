@@ -29,4 +29,5 @@ This project analyzes COVID-19 cases, deaths, and vaccination progress across se
 - **Git/GitHub**: Version control and repository hosting (assumed for this project).
 
 ## How to Run/View the Project
--- Use the above mentioned tools and libraries to run and view the project
+- Use the above mentioned tools and libraries to run and view the project
+
